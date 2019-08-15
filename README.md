@@ -9,7 +9,7 @@ The strings will stop being processed as soon as all particles disappear from th
 
 # How to run
 1. cd into project folder.
-2. Enter ```python labelinsight_2.py```
+2. Enter ```python bosons.py```
 
 # What to Expect
 The output will be the result of unittests. Hence an 'OK' means all is good.
