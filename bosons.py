@@ -1,5 +1,5 @@
 import unittest
-#PROBLEM 2
+
 def animate(speed,string):
 	
 	def update(l,idx,dir):#this changes the needed cells for the next iteration.
