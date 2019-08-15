@@ -3,7 +3,8 @@ Watch time lapses of bosons interacting on a line
 
 # An example view
 If the bosons start off like: 1, "LRRL.LR.LRR.R.LRRL.", with speed 1 and a direction alignment as shown prior, this is the future of those particles until they disappear from our line:
-![alt text](screenshots/bosonsInAction.png "Description goes here")
+
+![alt text](screenshots/Snip20190815_1.png "Bosons moving right through each other")
     
 # Description of approach
 The approach taken involves taking a look at every char in the given string to determine where the particle will be later and to make the necessary update according to what was at that location before. The update() helper method does the update based on existing conditions. 
